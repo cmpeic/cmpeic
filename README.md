@@ -1,4 +1,4 @@
-![Pablo Cañez Banner](https://github.com/cmpeic/cmpeic/blob/main/assets/banner-pablo-canez.png)
+![Pablo Cañez Banner](https://github.com/cmpeic/cmpeic/blob/main/logo_banner%20(2).png)
 
 <img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2 align="left">Hey there! I'm Pablo Enrique Cañez Larico 👨‍💻</h2>
@@ -102,5 +102,5 @@
 ### 🐍 &nbsp;Commit Snake Animation
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
